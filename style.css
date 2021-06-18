@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+  /* background: linear-gradient(to right, #9c27b0, #8ecdff); */
+  background: black;
+}
+
+.screen {
+  font-family: Raleway;
+  color: white;
+  position: absolute;
+  width: 60%;
+  left: 20%;
+  top: 10%;
+  border: 3px solid white;
+  text-align: center;
+  padding: 10px;
+  /* background-color: rgb(255, 255, 255, 0.5) */
+}
+
+.screen img {
+  width: 150px;
+}
+
+.screen input {
+  width: 200px;
+}
